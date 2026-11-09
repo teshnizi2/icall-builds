@@ -1,6 +1,6 @@
-# AirSIM builds
+# iCall builds
 
-Test builds of AirSIM for Android. AirSIM lets an iPhone use the calls and text messages of an Android phone.
+Test builds of iCall for Android. iCall lets an iPhone use the calls and text messages of an Android phone.
 
 This repository holds builds only. It has no source code.
 
@@ -21,4 +21,4 @@ The iPhone app is not here. It comes only by TestFlight invitation.
 
 ## Licence
 
-AirSIM is licensed under the PolyForm Noncommercial License 1.0.0 (see `LICENSE` and `NOTICE`). That licence allows personal, learning and research use, and other non-commercial uses it lists. It does not allow commercial use. AirSIM is not open source.
+iCall is licensed under the PolyForm Noncommercial License 1.0.0 (see `LICENSE` and `NOTICE`; the notice keeps the project's original name as the licence requires). That licence allows personal, learning and research use, and other non-commercial uses it lists. It does not allow commercial use. iCall is not open source.
